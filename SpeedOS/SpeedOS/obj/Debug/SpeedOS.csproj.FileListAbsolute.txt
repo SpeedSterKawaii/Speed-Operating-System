@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\SpeedOS\SpeedOS\bin\Debug\SpeedOS.exe.config
+C:\Users\user\source\repos\SpeedOS\SpeedOS\bin\Debug\SpeedOS.exe
+C:\Users\user\source\repos\SpeedOS\SpeedOS\bin\Debug\SpeedOS.pdb
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.Properties.Resources.resources
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.exe
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.pdb
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.Startup.resources
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.Windows10.resources
+C:\Users\user\source\repos\SpeedOS\SpeedOS\obj\Debug\SpeedOS.Windows7.resources

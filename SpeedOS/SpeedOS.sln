@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedOS", "SpeedOS\SpeedOS.csproj", "{1C4638DA-8A24-4C37-B4E5-97092FC44D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4638DA-8A24-4C37-B4E5-97092FC44D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4638DA-8A24-4C37-B4E5-97092FC44D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4638DA-8A24-4C37-B4E5-97092FC44D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4638DA-8A24-4C37-B4E5-97092FC44D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167F33A6-BA9D-4C3C-A938-3C08F6A8974D}
+	EndGlobalSection
+EndGlobal
